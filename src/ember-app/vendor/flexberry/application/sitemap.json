@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Popytki",
+  "applicationTitle": "Popytki",
+  "items": [
+    {
+      "link": null,
+      "menuName": "popytki",
+      "caption": "Popytki",
+      "title": "Popytki",
+      "children": [
+        {
+          "link": "i-i-s-popytki-анкеты-l",
+          "menuName": null,
+          "caption": "Анкеты",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-popytki-специалист-l",
+          "menuName": null,
+          "caption": "Специалист",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-popytki-причин-увольн-l",
+          "menuName": null,
+          "caption": "Причин увольн",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

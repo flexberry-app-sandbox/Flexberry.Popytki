@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Причин увольн",
+  "name": "IISPopytkiПричинУвольнE",
+  "className": "ПричинУвольнE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-popytki-причин-увольн",
+      "modelProjection": "ПричинУвольнE"
+    }
+  ]
+}

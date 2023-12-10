@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Анкеты",
+  "name": "IISPopytkiАнкетыE",
+  "className": "АнкетыE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-popytki-анкеты",
+      "modelProjection": "АнкетыE"
+    }
+  ]
+}

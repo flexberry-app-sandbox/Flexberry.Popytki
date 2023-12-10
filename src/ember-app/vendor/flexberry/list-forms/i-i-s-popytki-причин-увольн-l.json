@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-popytki-причин-увольн-e",
+  "editForm": "i-i-s-popytki-причин-увольн-e",
+  "external": false,
+  "caption": "Причин увольн",
+  "name": "IISPopytkiПричинУвольнL",
+  "className": "ПричинУвольнL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-popytki-причин-увольн",
+      "modelProjection": "ПричинУвольнL"
+    }
+  ]
+}
